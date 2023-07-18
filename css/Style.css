@@ -217,6 +217,12 @@ header nav .toggle-menu:hover + ul a {
     top: 50%;
     transform: translateY(-50%);
     right: 0;
+    transition: 0.3s;
+}
+
+.form i:hover {
+    color: var(--main-color-1);
+    cursor: pointer;
 }
 
 header .logo img {
