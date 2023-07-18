@@ -1309,6 +1309,7 @@ footer .container .info p {
 
 footer .container .info p span a {
     text-decoration: none;
+    color: var(--main-color-1);
 }
 
 footer .container .info p span {
