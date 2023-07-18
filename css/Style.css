@@ -1301,6 +1301,10 @@ footer .container .icons i {
     padding: 15px;
     font-size: 20px;
     color: white;
+    transition: 0.3s;
+}
+footer .container .icons i:hover {
+    color: var(--main-color-1);
 }
 
 footer .container .info p {
