@@ -3,6 +3,7 @@ Website Named 'AK Website'. I used HTML, CSS, Icon library from Font Awesome and
 
 ### To try the website: https://omar95-a.github.io/Website-Project-2/
 For work on this website i used Kasper - One Page Creative PSD Template which I took sketch from the Graphberry website. https://www.graphberry.com/item/kasper-one-page-psd-template
-I learned how can i use the html & css professionally in design the websites with Eng. Osama Elzero https://elzero.org/
+I learned how can i use the html & css professionally in design the websites with Eng. Osama Elzero
+https://elzero.org/category/courses/html-and-css-practice/
 
 ### Special Thanks To Osama Elzero
