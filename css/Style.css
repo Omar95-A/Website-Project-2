@@ -1303,11 +1303,15 @@ footer .container .icons i {
     color: white;
 }
 
-footer .container p:last-child {
-    margin-top: 60px;
+footer .container .info p {
+    margin-top: 20px;
 }
 
-footer .container p:last-child span {
+footer .container .info p a {
+    text-decoration: none;
+}
+
+footer .container .info p span {
     font-weight: bold;
     color: var(--main-color-1);
 }
