@@ -1288,7 +1288,7 @@ footer .container img {
     margin-bottom: 20px;
 }
 
-footer .container p:first-of-type { 
+footer .container > p { 
     text-transform: uppercase;
     padding: 20px;
     border-bottom: 1px solid white;
@@ -1307,7 +1307,7 @@ footer .container .info p {
     margin-top: 20px;
 }
 
-footer .container .info p a {
+footer .container .info p span a {
     text-decoration: none;
 }
 
