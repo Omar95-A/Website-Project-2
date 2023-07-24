@@ -1325,6 +1325,9 @@ footer .container .icons i.instagram:hover {
 footer .container .icons i.github:hover {
     color: #333;
 }
+footer .container .icons i.linkedin:hover {
+    color: #0a66c2;
+}
 footer .container .info p {
     margin-top: 20px;
 }
