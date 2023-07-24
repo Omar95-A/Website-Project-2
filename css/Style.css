@@ -1206,7 +1206,9 @@ header .logo img {
     margin-bottom: 30px;
     width: 100%;
 }
-
+.contact .content textarea {
+    resize: none;
+}
 .contact .content input:focus , textarea:focus {
     outline: none;
 }
