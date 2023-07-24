@@ -536,7 +536,9 @@ header .logo img {
     overflow: hidden;
     position: relative;
 }
-
+.image-container .box:hover {
+    cursor: pointer;
+}
 @media (max-width: 768px) {
     .image-container .box {
         flex-basis: 100%;
