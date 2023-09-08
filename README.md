@@ -4,6 +4,8 @@
 
 #### To try the website: [Demo](https://omar95-a.github.io/Website-Project-2/).
 
-For work on this website i used Kasper - One Page Creative PSD Template which I took sketch from the [Graphberry](https://www.graphberry.com/item/kasper-one-page-psd-template) website.
+For work on this website i used [Kasper - One Page Creative PSD Template](https://www.graphberry.com/item/kasper-one-page-psd-template) which I took sketch from the [Graphberry](https://www.graphberry.com) website.
 <br><br>
-I learned how can I use the html & css professionally in design the websites with Eng. [Osama Elzero](https://elzero.org/category/courses/html-and-css-practice/).
+I learned how can I use the html & css professionally in design the websites with Eng. Osama Elzero.
+
+#### Special Thanks To [Osama Elzero](https://elzero.org/category/courses/html-and-css-practice/).
